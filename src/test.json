@@ -1,0 +1,187 @@
+{'_id': '151267',
+ '_index': 'bergensavisen',
+ '_score': 0,
+ '_source': {'alternates': ['http://www.ba.no/incoming/5-8-151267.html'],
+             'ancestorSections': ['4', '1'],
+             'authors': ['Orjan Nilsson'],
+             'authorsUntouched': ['Orjan Nilsson'],
+             'creationDate': 1441717132000,
+             'creator': 'garuda garuda',
+             'fields': {'body': '<div '
+                                'xmlns="http://www.w3.org/1999/xhtml"><p>\xa0'
+                                '</p><p><strong><em>Hør hele podkasten lenger '
+                                'nede i saken.</em></strong></p><p>Den for '
+                                'tiden Berlin-bosatte poeten debuterte med '
+                                'diktsamlingen «Newfoundland» for 15 år siden '
+                                'snakker i podkasten om hvordan han drar opp '
+                                'et klart skille mellom privatpersonen og '
+                                'dikteren.</p><p><strong>– For meg har det '
+                                'vært en frelse å finne det mørke stedet inni '
+                                'meg. Jeg vokste opp i Bontveitdalen i en '
+                                'familie der det var full guff hele dagen. Det '
+                                'var fotballpreik, folk var morsomme og det '
+                                'var kjappe replikker hele tiden. Og den '
+                                'personen var jeg 100 prosent frem til jeg '
+                                'begynte å lese da jeg var 16 år, forteller '
+                                'han.</strong></p><p>Da leste Bergsvåg '
+                                '«Fuglane» av Tarjei Vesaas.</p><p>– Da så jeg '
+                                'at her var det en fyr som var dyster. Han sa '
+                                'ikke noe morsomt. Likevel var dette spennende '
+                                'for folk og det var spennende for meg Hva var '
+                                'dette for noe? Det var da jeg begynte å '
+                                'skrible litt og fant ut at dette var et sted '
+                                'inni meg også, i tillegg til han som bare '
+                                'hadde lyst til å tulle og ha det '
+                                'gøy.</p><h2>I kollektiv</h2><p>Debutsamlingen '
+                                'hans som kom i 2000 – «Newfoundland» – ble '
+                                'skrevet i Portugal, på reise med flere andre '
+                                'skrivende. På det stadiet i karrieren jobbet '
+                                'Bergsvåg mye med andre forfattere, sittende i '
+                                'samme rom.</p><p>– På den tiden jobbet jeg '
+                                'veldig mye i kollektiv. Vi var en gjeng som '
+                                'skrev sammen. Det er litt sånn typisk '
+                                'bergensk, at man hjelper hverandre og at alle '
+                                'backer hverandre opp. Vi samlet oss i stuen '
+                                'min, jeg kjøpte en åtteseters sofa, som er en '
+                                'ganske massiv sofa. Den utgjorde hele '
+                                'leiligheten min, det var kun plass til en '
+                                'liten madrass inne i hjørnet. Der møttes '
+                                'altså de bergensforfatterne som jeg akkurat '
+                                'hadde blitt kjent med, forteller han i '
+                                'podkasten. Tomas Espedal var også med, som '
+                                'den etablerte i gjengen.</p><p>– Det var '
+                                'veldig lærerikt. Vi fant en slags nøkkel '
+                                'sammen, legger han til.</p><p><a '
+                                'href="https://ece5.api.no/berg/webservice/escenic/content/151723" '
+                                'id="_06ce240f-adf2-41ee-acfa-a962ce3486ef">Kulturpod</a>\xa0'
+                                '</p><h2>Skriver i isolasjon</h2><p><em> – '
+                                'Hvordan jobber du i dag? Du sitter ikke i en '
+                                'åtteseter med en haug poeter i '
+                                'Berlin</em>?</p><p><strong>– De siste '
+                                'fem-seks årene har jeg måttet isolere meg '
+                                'helt for å kunne skrive. Jeg trenger å føle '
+                                'på ensomhet og jeg trenger å kjede meg for å '
+                                'skrive, sier han og greier ut om hvordan '
+                                'livet ser ut i dag:</strong></p><p>– Jeg '
+                                'lever helt likt som jeg gjorde for 15 år '
+                                'siden. Jeg har ikke kone, ikke hus, bil eller '
+                                'en hund. Jeg lever litt vilt ennå. Og i '
+                                'Bergen skjer det så mye. Min metode i dag er '
+                                'å dra vekk. Sette meg et sted hvor jeg ikke '
+                                'kjenner så mange og gå inn i den siden av meg '
+                                'som er dyster, treig og er på et mørkt sted. '
+                                'For skrivingen min er et mørkt '
+                                'sted.</p><p><strong>– Men det er ikke noe '
+                                'kjekt sted, det er jævlig kjedelig og ensomt. '
+                                'Jeg vil bare '
+                                'hjem.</strong></p><p><strong><em>Hør '
+                                'Kulturpod på '
+                                'BA.no.</em></strong></p><p><em><a '
+                                'href="https://ece5.api.no/berg/webservice/escenic/content/145309" '
+                                'id="_bb254f67-e543-435d-ba61-c689500af941">– '
+                                'Jeg holdt på å dø i det '
+                                'badekaret</a></em></p></div>',
+                        'byline': 'Ørjan Nilsson',
+                        'com.escenic.tags': '<vdf:payload><vdf:field '
+                                            'name="tag"><vdf:origin '
+                                            'href="https://ece5.api.no/berg/webservice/escenic/classification/tag/tag:topic.iptc,2011:Kultur" '
+                                            '/><vdf:value>Kultur</vdf:value></vdf:field><vdf:field '
+                                            'name="relevance"><vdf:value>1</vdf:value></vdf:field></vdf:payload><vdf:payload><vdf:field '
+                                            'name="tag"><vdf:origin '
+                                            'href="https://ece5.api.no/berg/webservice/escenic/classification/tag/tag:topic.iptc,2011:Bergen_sentrum" '
+                                            '/><vdf:value>Bergen '
+                                            'sentrum</vdf:value></vdf:field><vdf:field '
+                                            'name="relevance"><vdf:value>1</vdf:value></vdf:field></vdf:payload>',
+                        'comments': '',
+                        'cxense-response': '',
+                        'factsText': '',
+                        'factsTitle': '',
+                        'hideForSearchEngines': '',
+                        'instagramHashtag': '',
+                        'isPremium': '',
+                        'leadtext': 'I forrige uke var Kristian Stockhaus '
+                                    'første gjest i BAs Kulturpod. Denne uken '
+                                    'møter vi Henning H. Bergsvåg. ',
+                        'noFreeFlow': '',
+                        'overline': '',
+                        'privateEditorialNote': '',
+                        'question': '',
+                        'saxosyncstorystate': '',
+                        'tipUs': '',
+                        'title': '– Jeg må isolere meg for å skrive. Det er '
+                                 'jævlig kjedelig og ensomt',
+                        'type': '',
+                        'vignette': ''},
+             'homeSectionId': '4',
+             'homeSectionName': 'Arkiv',
+             'id': '151267',
+             'index': 'bergensavisen',
+             'lastEditedUser': 'Orjan Nilsson',
+             'lastModifiedDate': 1441792695000,
+             'publishedDate': 1441787170000,
+             'relatedContents': [{'contentType': 'picture',
+                                  'fields': {'alignment': '',
+                                             'alttext': '',
+                                             'caption': 'I kulturpod: Henning '
+                                                        'H. Bergsvåg snakker '
+                                                        'om sitt arbeid, de to '
+                                                        'årene han i en '
+                                                        'okkupert kirke i '
+                                                        'London, '
+                                                        'DJ-virksomheten og '
+                                                        'tiden i '
+                                                        'skrivekollektiv.ARKIVFoto: '
+                                                        'VIDAR LANGELAND',
+                                             'color': '',
+                                             'photographer': '',
+                                             'title': ''},
+                                  'group': 'top',
+                                  'id': '151264',
+                                  'uri': 'https://ece5.api.no/berg/webservice/escenic/content/151264'},
+                                 {'contentType': 'story',
+                                  'fields': {'alignment': '',
+                                             'color': '',
+                                             'leadtext': 'Stockhaus om '
+                                                         'musikkvideoinnspillingen '
+                                                         'som holdt på å gå '
+                                                         'alvorlig galt. I '
+                                                         'tillegg snakker han '
+                                                         'om korte shorts, '
+                                                         'selvtillit og duoen '
+                                                         'han gjerne vil '
+                                                         'spille i.',
+                                             'overline': '',
+                                             'title': '– Jeg holdt på å dø i '
+                                                      'det badekaret',
+                                             'top': '',
+                                             'view': 'extended',
+                                             'vignette': ''},
+                                  'group': 'com.escenic.inlineRelations',
+                                  'id': '145309',
+                                  'uri': 'https://ece5.api.no/berg/webservice/escenic/content/145309'},
+                                 {'contentType': 'embed',
+                                  'fields': {'alignment': '',
+                                             'title': 'Kulturpod',
+                                             'top': ''},
+                                  'group': 'com.escenic.inlineRelations',
+                                  'id': '151723',
+                                  'uri': 'https://ece5.api.no/berg/webservice/escenic/content/151723'}],
+             'sections': ['4', '1'],
+             'source': 'ece-auto-gen',
+             'sourceId': '1caaedd6-50f4-4075-a2a3-60aa3eb4eae3',
+             'state': 'published',
+             'summary': 'I forrige uke var Kristian Stockhaus første gjest i '
+                        'BAs Kulturpod. Denne uken møter vi Henning H. '
+                        'Bergsvåg.',
+             'tags': [{'id': '1',
+                       'name': 'Kultur',
+                       'uri': 'https://ece5.api.no/berg/webservice/escenic/classification/tag/tag:topic.iptc,2011:Kultur'},
+                      {'id': '1',
+                       'name': 'Bergen sentrum',
+                       'uri': 'https://ece5.api.no/berg/webservice/escenic/classification/tag/tag:topic.iptc,2011:Bergen_sentrum'}],
+             'thumbnail': 'https://ece5.api.no/berg/webservice/thumbnail/article/151264',
+             'title': '– Jeg må isolere meg for å skrive. Det er jævlig '
+                      'kjedelig og ensomt',
+             'type': 'story',
+             'uri': 'https://ece5.api.no/berg/webservice/escenic/content/151267'},
+ '_type': 'story'}
