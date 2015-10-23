@@ -27,7 +27,7 @@ for fn in files:
                 if n_data%1000==0:
 
 
-                    print('analysis data gotten')
+                    print('analysis data gotten',fn)
                     k=Key(bucket)
                     kkey=nd['_index']+'/'+nd['_index']+'_'+str(n_data).zfill(nr_len)+'_'+str(key_nr)+'.json'
                     k.key=kkey
