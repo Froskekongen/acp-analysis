@@ -39,8 +39,9 @@ def get_acpids(src):
     acpids=[]
     if 'alternates' in src:
         for link in src['alternates']:
-            acpid=GET_ACPID.findall(link)[0]
-            acpids.append(acpid)
+            re_acpid=GET_ACPID.findall(link)
+            if len(re_acpid)>0:
+                acpids.append(re_acpid[0])
     if len(acpids)>0:
         return acpids
     else:
