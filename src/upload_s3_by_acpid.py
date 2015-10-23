@@ -11,8 +11,13 @@ conn=S3Connection(sys.argv[1],sys.argv[2])
 bucket=conn.get_bucket('s3-acpcontent')
 
 for fn in files:
-    with open(fn) as ff:
-        jsonObjs=json.load(ff)
+    print(fn)
+    try:
+        with open(fn) as ff:
+            jsonObjs=json.load(ff)
+    except Exception as e:
+        print('Json objects not loaded',e)
+
 
     dumpdata=[]
     n_data=0
