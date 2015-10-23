@@ -1,4 +1,3 @@
-import ijson
 import json
 import glob
 from pprint import pprint
